@@ -38,6 +38,26 @@
 
 ---
 
+### Awesome LLM guides
+
+I curate a family of research-backed awesome-lists for the LLM landscape, now housed in the **[Awesome-llms-labs](https://github.com/awesome-llms-labs)** organization:
+
+| Guide | What it covers |
+|---|---|
+| [awesome-decisions-llms](https://github.com/awesome-llms-labs/awesome-decisions-llms) | LLMs for decision-making: decision-tuned models, benchmarks & evals, frameworks |
+| [awesome-flagship-llms](https://github.com/awesome-llms-labs/awesome-flagship-llms) | Frontier flagship models, benchmark notes, verified pricing |
+| [awesome-flash-llms](https://github.com/awesome-llms-labs/awesome-flash-llms) | Flash-class efficiency models + where to deploy and serve them |
+| [awesome-fast-llms](https://github.com/awesome-llms-labs/awesome-fast-llms) | Inference-speed LLMs: models, providers, engines, optimization techniques |
+| [awesome-free-llms](https://github.com/awesome-llms-labs/awesome-free-llms) | Genuinely free LLMs: free API tiers, free chat apps, open-weight local models |
+| [awesome-ai-agents](https://github.com/awesome-llms-labs/awesome-ai-agents) | The AI agent ecosystem: frameworks, tools, and platforms |
+| [awesome-ai-sandboxes](https://github.com/awesome-llms-labs/awesome-ai-sandboxes) | AI sandboxes: managed, open-source, and browser-based |
+| [awesome-jev](https://github.com/awesome-llms-labs/awesome-jev) | TypeSafe's Jev (System One): docs, examples, and resources |
+| [awesome-microVM](https://github.com/awesome-llms-labs/awesome-microVM) | The microVM ecosystem, from Firecracker to macOS-native runtimes |
+
+Entries are verified against official sources or explicitly flagged unverified — no invented specs.
+
+---
+
 ### GitHub stats
 
 ![Dakota's GitHub stats](https://github-readme-stats.vercel.app/api?username=dakotac1994&show_icons=true&theme=transparent&hide_border=true)
